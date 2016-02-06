@@ -28,3 +28,4 @@ notifications: # set notification options
   email:
     recipients:
       - lcento@gmail.com
+      - lo.rossella@libero.it
