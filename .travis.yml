@@ -15,6 +15,7 @@ after_success:
   - docker login -e $DOCKER_EMAIL -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
   - cd ./portaledock
   - docker build --rm -t lcento/portaletst .
+  - docker push lcento/portaletst
 #  - export REPO=lcento/portaletst
 #  - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH ; fi`
 #  - docker build -f Dockerfile -t $REPO:$COMMIT .
