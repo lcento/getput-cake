@@ -5,7 +5,7 @@ ENV TZ=Europe/Rome
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 
 # Update the image with latest packages
-RUN apt-get update; apt-get upgrade
+RUN apt-get update; apt-get upgrade -y
 
 # Add group ftpusers
 RUN groupadd -g 1010 ftpusers
