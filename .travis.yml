@@ -12,7 +12,7 @@ services:
   
 after_success:
   - tar -cvf ./portaledock/files/getput-cake.tar ../getput-cake --exclude ./portaledock --exclude .git
-  - docker login -e $DOCKER_EMAIL -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+  - docker login -e="$DOCKER_EMAIL" -u="$DOCKER_USERNAME" -p="$DOCKER_PASSWORD"
   - cd ./portaledock
   - docker build --rm -t lcento/portaletst .
   - docker push lcento/portaletst
