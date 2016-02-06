@@ -1,9 +1,25 @@
 # see http://about.travis-ci.org/docs/user/languages/php/ for more hints
+sudo: required
+
 language: php
 
 php:  
   # aliased to 5.5.9
   - 5.5
+  
+services:
+  - docker
+  
+after_success:
+  tar -cvf ./portaledock/files/getput-cake.tar . --exclude ./portaledock --exclude .git
+#  - docker login -e $DOCKER_EMAIL -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+#  - export REPO=sebestblog/travis-demo
+#  - export TAG=`if [ "$TRAVIS_BRANCH" == "master" ]; then echo "latest"; else echo $TRAVIS_BRANCH ; fi`
+#  - docker build -f Dockerfile -t $REPO:$COMMIT .
+#  - docker tag $REPO:$COMMIT $REPO:$TAG
+#  - docker tag $REPO:$COMMIT $REPO:travis-$TRAVIS_BUILD_NUMBER
+#  - docker push $REPO
+
    
 # omitting "script:" will default to phpunit
 # use the $DB env variable to determine the phpunit.xml to use
@@ -13,4 +29,3 @@ notifications: # set notification options
   email:
     recipients:
       - lcento@gmail.com
-      - lo.rossella@libero.it
