@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="styleGerenza.xsl"?>
+<Gerenza>
+	<Titolo Fondato="1892">Il Mattino</Titolo>
+	<DirettoreResponsabile>Virman Cusenza</DirettoreResponsabile>
+	<Vicedirettore>
+		<Item>Federico Monga</Item>
+	</Vicedirettore>
+	<UffRedCapoCentrale>
+		<Item>Antonello Velardi (Responsabile)</Item>
+		<Item>Antonino Pane (Vicario)</Item>
+		<Item>Francesco De Core</Item>
+            	<Item>Titti Marrone</Item>
+            	<Item>Fabio Scandone</Item>
+            	<Item>Antonio Troise</Item>
+	</UffRedCapoCentrale>
+	<PresidAmmDelegato>Albino Majore</PresidAmmDelegato>
+	<Consiglieri>
+		<Item>Gaetano Caltagirone</Item>
+		<Item>Azzurra Caltagirone</Item>
+		<Item>Francesco Caltagirone</Item>
+		<Item>Fabio Gera</Item>
+	</Consiglieri>
+	<Editrice>
+		<Nome>IL MATTINO S.p.a</Nome>
+		<SedeLegale>Via Barberini, 28 - 00187 Roma</SedeLegale>
+		<Redazione Telefono="0817947111">Via Chiatamone n.65 80121 Napoli</Redazione>
+		<Amministrazione Telefono="0817947111">via Chiatamone n.65 80121 Napoli</Amministrazione>
+		<Prestampa Telefono="0817947111">via Chiatamone n.65 80121 Napoli</Prestampa>
+	</Editrice>
+	<CentroStampaNapoli>
+		<Nome>ASI</Nome>
+		<Indirizzo>Caivano , Località Pascarola</Indirizzo>
+	</CentroStampaNapoli>
+	<ConcessionariaPubblicita>
+		<Nome>PIEMME S.p.a</Nome>
+		<Indirizzo>via Arcoleo n.58 (palazzo Il Mattino) - 80121 Napoli</Indirizzo>
+		<Telefono>0812473111</Telefono>
+		<Fax>0812473220</Fax>
+	</ConcessionariaPubblicita>
+	<CopieArretrate>
+		<Telefono>0817373715</Telefono>
+		<Fax>0817360064</Fax>
+	</CopieArretrate>
+	<Nota>Registrazione Tribunale di Napoli al numero 338 dell'aprile 1950 Certificato N. 4964 del 25/11/2003</Nota>
+</Gerenza>

@@ -1,0 +1,41 @@
+
+
+activity_fileput_history_filedest
+
+select FROM_UNIXTIME(activity_fileput_history_date), TIMESTAMPDIFF(DAY,FROM_UNIXTIME(activity_fileput_history_date),'2010-10-06') FROM getput_activity_fileput_history 
+WHERE TIMESTAMPDIFF(DAY,FROM_UNIXTIME(activity_fileput_history_date),'2010-10-06') <= 7 ORDER BY activity_fileput_history_date;
+
+
+select activity_fileput_history_filedest, FROM_UNIXTIME(activity_fileput_history_date), TIMESTAMPDIFF(DAY,FROM_UNIXTIME(activity_fileput_history_date),'2010-10-25') FROM getput_activity_fileput_history 
+WHERE TIMESTAMPDIFF(DAY,FROM_UNIXTIME(activity_fileput_history_date),'2010-10-25') <= 7 ORDER BY activity_fileput_history_date;
+
+
+select activity_fileput_history_filedest, COUNT(activity_fileput_history_filedest), FROM_UNIXTIME(activity_fileput_history_date) FROM getput_activity_fileput_history 
+WHERE TIMESTAMPDIFF(DAY,FROM_UNIXTIME(activity_fileput_history_date),'2010-10-25') <= 7 GROUP BY activity_fileput_history_filedest ORDER BY activity_fileput_history_date;
+
+select activity_fileput_history_filedest, COUNT(activity_fileput_history_filedest), FROM_UNIXTIME(activity_fileput_history_date) FROM getput_activity_fileput_history 
+WHERE MONTH(FROM_UNIXTIME(activity_fileput_history_date)) = 01 AND YEAR(FROM_UNIXTIME(activity_fileput_history_date)) = 2011 GROUP BY activity_fileput_history_filedest ORDER BY activity_fileput_history_date;
+
+select getput_users.users_username, getput_users.users_username_realname, getput_users.users_password FROM getput_ageusersgroup, getput_users 
+WHERE getput_users.users_type = 1 and getput_users.users_id = getput_ageusersgroup.users_id and getput_ageusersgroup.group_id = 1 ORDER BY getput_users.users_username;
+
+
+STORICIZZAZIONE DEI DATI FOR getput_activity_fileput_history
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+INSERT INTO getput_activity_fileput_history_oldest (activity_fileput_history_users_id, activity_fileput_history_users_realname, activity_fileput_history_filename, 
+activity_fileput_history_absfilename, activity_fileput_history_filedest, activity_fileput_history_date) SELECT activity_fileput_history_users_id, 
+activity_fileput_history_users_realname, activity_fileput_history_filename, activity_fileput_history_absfilename, activity_fileput_history_filedest, 
+activity_fileput_history_date FROM getput_activity_fileput_history WHERE YEAR(FROM_UNIXTIME(activity_fileput_history_date)) = 2010;
+
+DELETE FROM getput_activity_fileput_history WHERE YEAR(FROM_UNIXTIME(activity_fileput_history_date)) = 2010;
+
+
+
+STORICIZZAZIONE DEI DATI FOR getput_activity_fileget_history
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+INSERT INTO getput_activity_fileget_history_oldest (activity_fileget_history_users_id, activity_fileget_history_users_realname, activity_fileget_history_filename, 
+activity_fileget_history_absfilename, activity_fileget_history_date) SELECT activity_fileget_history_users_id, activity_fileget_history_users_realname, 
+activity_fileget_history_filename, activity_fileget_history_absfilename, activity_fileget_history_date 
+FROM getput_activity_fileget_history WHERE YEAR(FROM_UNIXTIME(activity_fileget_history_date)) = 2010;
+
+DELETE FROM getput_activity_fileget_history WHERE YEAR(FROM_UNIXTIME(activity_fileget_history_date)) = 2010;

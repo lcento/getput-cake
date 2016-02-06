@@ -1,0 +1,160 @@
+<div id="menu_login">
+	<h1 class="menu_h1">&nbsp;Connessione</h1>
+	<br /><ul class="nav1">
+	<?php if (!$session->check('User')): ?>
+		<?php $u_agent = $_SERVER['HTTP_USER_AGENT']; ?>
+
+		<?php if ( preg_match('/(MSIE\s+)(\d+)/i',$u_agent, $match) && ($match[2] <= 6) ): ?>
+			<li><?php echo $html->link('Login', array('controller' => 'users', 'action' => 'loginOld'));?></li>
+		<?php else: ?>
+			<li><?php echo $html->link('Login', array('controller' => 'users', 'action' => 'login'));?></li>
+		<?php endif; ?>
+	<?php else: ?>
+		<li><?php echo $html->link('Logout', array('controller' => 'users', 'action' => 'logout'));?></li>
+		<div class="logout"></div>
+		<?php
+			$menus = $this->requestAction(array('controller' => 'menus', 'action' => 'menu'));
+			$menuTypeUpload = $this->requestAction(array('controller' => 'menus', 'action' => 'menuTypeUpload'));
+			$menusAddon = $this->requestAction(array('controller' => 'menus', 'action' => 'menuAddon'));
+
+			if ( !empty($menus) ) 
+			{
+				foreach ( $menus as $menu ) 
+				{
+					$desc_id = $menu['MenuMain']['menu_main_id'];
+					$desc_main = $menu['MenuMain']['menu_main_desc'];
+					$contrl_main = $menu['MenuMain']['menu_main_controller'];
+					$act_main = $menu['MenuMain']['menu_main_action'];
+					$chkitems = $menu['MenuMain']['menu_main_items'];
+					$mnuaddon = $menu['MenuMain']['menu_main_addon'];
+					$mnutype = $menu['MenuMain']['menu_main_type'];
+					$mnu_enable_check = 0;
+
+					if ( $session->read('User.level') < 10 )
+					{
+						// check menu type
+						if ( ($session->read('User.level') == 2 || $session->read('User.level') == 3) && ($mnutype == Configure::read('download.files')) )
+						{
+							$mnu_enable_check = 1;
+						}
+						else if ( ($session->read('User.level') == 1 || $session->read('User.level') == 3) && ($mnutype == Configure::read('upload.articoli')) )
+						{
+							if ( !empty($menuTypeUpload) && ($menuTypeUpload['UserTypeUpload']['users_type_upload_art'] == 1) )
+								$mnu_enable_check = 1;
+						}
+						else if ( ($session->read('User.level') == 1 || $session->read('User.level') == 3) && ($mnutype == Configure::read('upload.foto')) )
+						{
+							if ( !empty($menuTypeUpload) && ($menuTypeUpload['UserTypeUpload']['users_type_upload_pho'] == 1) )
+								$mnu_enable_check = 1;
+						}
+						else if ( ($session->read('User.level') == 1 || $session->read('User.level') == 3) && ($mnutype == Configure::read('upload.files')) )
+						{
+							if ( !empty($menuTypeUpload) && ($menuTypeUpload['UserTypeUpload']['users_type_upload_all'] == 1) )
+								$mnu_enable_check = 1;
+						}
+						// check editor download
+						else if ( $mnutype == Configure::read('download.editor_software') )
+						{
+							$mnu_enable_check = 1;
+						}
+						else if ( $mnutype == Configure::read('download.editor_manual') )
+						{
+							$mnu_enable_check = 1;
+						}
+                                                else if ( $mnutype == Configure::read('download.cms_manual') )
+                                                {
+                                                        $mnu_enable_check = 1;
+                                                }
+						// check help docs
+						else if ( $mnutype == Configure::read('doc.help_base') )
+						{
+							$mnu_enable_check = 1;
+						}
+						// check menu addon permit
+						else if ( $mnuaddon )
+						{
+							if ( !empty($menusAddon) )
+							{
+								foreach ( $menusAddon as $menuAddon )
+								{
+									if ( $menuAddon['MenuAddon']['menu_addon_main_id'] == $desc_id )
+									{
+										$mnu_enable_check = 1;
+										break;
+									}
+								}
+							}
+						}
+					}
+					else
+						$mnu_enable_check = 1;
+
+					if ( $mnu_enable_check )
+					{
+						if ( $chkitems && !empty($menu['MenuItem']) )
+						{
+		?>
+							<div><hr class="hr_menu"></div>
+		<?php
+							$session_menu_main = "Menu.".$desc_main;
+
+							if ( $session->check($session_menu_main) && $session->read($session_menu_main) == 1 )
+							{
+								echo $html->tag('li', $html->link($desc_main, array('controller' => $contrl_main, 'action' => $act_main, $session_menu_main)), array('class' => 'nav1_left'));
+
+		?>
+								<div id="submenu_login">
+									<ul class="nav1_sub">
+		<?php
+										foreach ( $menu['MenuItem'] as $menuItem )
+										{
+											$desc_sub = $menuItem['menu_items_desc'];
+											$contrl_sub = $menuItem['menu_items_controller'];
+											$act_sub = $menuItem['menu_items_action'];
+
+											echo $html->tag('li', $html->link($desc_sub, array('controller' => $contrl_sub, 'action' => $act_sub)));
+										}
+		?>
+									</ul>
+								</div>
+		<?php
+							}
+							else
+								echo $html->tag('li', $html->link($desc_main, array('controller' => $contrl_main, 'action' => $act_main, $session_menu_main)), array('class' => 'nav1_right'));
+
+						}
+						else
+							echo $html->tag('li', $html->link($desc_main, array('controller' => $contrl_main, 'action' => $act_main)));
+					}
+
+				}
+			}
+		?>
+	<?php endif; ?>
+	<br>
+	</ul>
+</div>
+<div id="menu_company">
+	<h1 class="menu_h1">&nbsp;Società Editrice</h1>
+	<br /><ul class="nav1">
+	<li><a href="http://sfoglia.ilmattino.it/mattino/Gerenza.xml" target="_blank">IL MATTINO spa</a></li>
+	</ul>
+</div>
+<div id="menu_link">
+	<h1 class="menu_h1">&nbsp;Link</h1>
+	<br /><ul class="nav1">
+	<li><a href="http://www.ilmattino.it" target="_blank">Il Mattino</a></li>
+	<li><a href="http://www.ilmessaggero.it" target="_blank">Il Messaggero</a></li>
+	<li><a href="http://www.caltanet.it" target="_blank">Caltanet</a></li>
+	<li><a href="http://www.leggo.it" target="_blank">Leggo</a></li>
+	<li><a href="http://www.piemme.it" target="_blank">Piemme</a></li>
+	<li><a href="http://professionelavoro.caltanet.it/" target="_blank">Professione Lavoro</a></li>
+	<li><a href="http://agenzie.ilmattino.it/" target="_blank">Agenzie Il Mattino</a></li>
+	</ul>
+</div>
+<div id="menu_mail">
+	<h1 class="menu_h1">&nbsp;Posta</h1>
+	<br /><ul class="nav1">
+	<li><a href="http://mail.ilmattino.it" target="_blank">Invia una email</a></li>
+	</ul>
+</div>

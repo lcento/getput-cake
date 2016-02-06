@@ -1,0 +1,51 @@
+<div id="loginold">
+	<?php echo $form->create(null, array('action' => 'loginOld')); ?>
+		<table width="100%" class="table_form" cellspacing="0" cellpadding="0">
+			<tr height="60px"></tr>
+			<tr valign="center" align="center">
+				<td>
+					<table width="320px" height="180px" class="box_form1" align="center">
+						<tr valign="center" align="center">
+							<td>
+								<table height="14px" width="310px"class="header_form1" align="center" cellspacing="0" cellpadding="0">
+									<tr align="center" valign="center">
+										<td align="center" valign="middle">Connessione</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr valign="center" align="center">
+                                			<td>
+								<table width="310px" height="170px" class="table_form1" align="center">
+                                					<tr height="40px" align="left" valign="top"></tr>
+									<tr height="30px" align="left" valign="top">
+										<td width="10px" align="left"></td>
+										<td class="table_label_text1" align="right" valign="middle" width="100%"><label for="txUsername">Username :</label></td>
+										<td align="left" valign="middle"><?php echo $form->input('txUsername', array('type' => 'text', 'id' => 'txUsername', 'size' => 30, 'maxlength' => 30, 'class' => 'table_form_text1', 'label' => false)); ?></td>
+                                    						<td width="10px" align="left"></td>
+									</tr>
+									<tr height="30px" align="left" valign="top">
+										<td width="10px" align="left"></td>
+										<td class="table_label_text1" align="right" valign="middle" width="100%"><label for="txPassword">Password :</label></td>
+										<td align="left" valign="middle"><?php echo $form->input('txPassword', array('type' => 'password', 'value' => '', 'size' => 30, 'maxlength' => 30, 'autocomplete' => 'off', 'class' => 'table_form_text1', 'label' => false)); ?></td>
+                                    						<td width="10px" align="left"></td>
+									</tr>
+									<tr height="20px" align="left" valign="top"></tr>
+									<tr align="left" valign="top">
+                                    						<td width="10px" align="left"></td>
+										<td valign="bottom"><div class="submit"><input class="button_login" onmouseover="this.style.color='#FFFFFF';" onmouseout="this.style.color='black';" type="submit" value="Invia" /></div></td>
+										<td></td>
+                                    						<td width="10px" align="left"></td>
+									</tr>
+                                    					<tr height="10px" align="left" valign="top"></tr>
+                                         			</table>
+							</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+                </table>
+	</form>
+</div> <!-- end #loginold -->
+
+<?php echo $javascript->codeBlock('window.onload = focusElement("UserLoginForm", "txUsername");'); ?>

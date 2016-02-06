@@ -1,0 +1,11 @@
+----------------------------------------
+create_getput_filedest_table.sql
+----------------------------------------
+create_getput_ctrl_act_permit_table.sql
+create_getput_menu_addon_table.sql
+create_getput_menu_items_table.sql
+create_getput_menu_main_table.sql
+----------------------------------------
+create_getput_menu_tables.sql
+----------------------------------------
+create_getput_level_user_desc_table.sql
