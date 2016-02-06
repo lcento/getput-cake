@@ -1,0 +1,8 @@
+BUILD
+#docker build --rm -t webapp .
+docker build --rm -t lcento/portalemat .
+RUN
+docker run -i -t -p 21:21 -p 30000-30009:30000-30009 -e "PUBLICHOST=localhost" --name portalemat --link webmatdb:webmatdb -h portale.ilmattino.it --volumes-from webdata lcento/webapp bash
+docker run --name portalemat -p 21:21 -p 30000-30009:30000-30009 -e "PUBLICHOST=localhost" --link webmatdb:webmatdb -h portale.ilmattino.it --volumes-from webdata -d lcento/webapp
+INTERACTIVE
+docker exec -i -t portalemat bash
