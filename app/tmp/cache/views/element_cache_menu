@@ -1,0 +1,31 @@
+<div id="menu_login">
+	<h1 class="menu_h1">&nbsp;Connessione</h1>
+	<br /><ul class="nav1">
+			<li><a href="/getput-cake/users/login">Login</a></li>
+		<br>
+	</ul>
+</div>
+<div id="menu_company">
+	<h1 class="menu_h1">&nbsp;Società Editrice</h1>
+	<br /><ul class="nav1">
+	<li><a href="/getput-cake/files/gerenza.xml" target="_blank">IL MATTINO spa</a></li>
+	</ul>
+</div>
+<div id="menu_link">
+	<h1 class="menu_h1">&nbsp;Link</h1>
+	<br /><ul class="nav1">
+	<li><a href="http://www.ilmattino.it" target="_blank">Il Mattino</a></li>
+	<li><a href="http://www.ilmessaggero.it" target="_blank">Il Messaggero</a></li>
+	<li><a href="http://www.caltanet.it" target="_blank">Caltanet</a></li>
+	<li><a href="http://www.leggo.it" target="_blank">Leggo</a></li>
+	<li><a href="http://www.piemme.it" target="_blank">Piemme</a></li>
+	<li><a href="http://professionelavoro.caltanet.it/" target="_blank">Professione Lavoro</a></li>
+	<li><a href="http://agenzie.ilmattino.it/" target="_blank">Agenzie Il Mattino</a></li>
+	</ul>
+</div>
+<div id="menu_mail">
+	<h1 class="menu_h1">&nbsp;Posta</h1>
+	<br /><ul class="nav1">
+	<li><a href="mail.ilmattino.it" target="_blank">Invia una email</a></li>
+	</ul>
+</div>

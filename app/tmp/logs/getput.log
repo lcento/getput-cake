@@ -1,0 +1,890 @@
+2013-08-17 11:04:52 Getput: Admin Connect From : 191.200.30.210 - 
+2013-08-17 11:06:56 Getput: Admin Connect From : 191.200.30.210 - 
+2013-08-17 14:56:22 Getput: Admin Connect From : 191.200.30.210 - 
+2013-09-01 10:24:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-09-01 10:24:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetListFileView
+2013-09-01 10:25:10 Getput: Admin Connect From : 191.200.30.59 - 
+2013-09-01 10:31:32 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-01 10:33:53 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-01 10:34:40 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-01 10:34:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-09-01 10:35:43 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-01 10:36:04 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-11 14:33:40 Getput: Admin Connect From : 191.200.30.210 - 
+2013-09-11 14:33:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-09-11 14:49:10 Getput: Admin Connect From : 191.200.30.210 - 
+2013-09-11 14:56:31 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-11 15:00:40 Getput: Admin Connect From : 191.200.30.222 - 
+2013-09-11 15:00:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-03 07:15:46 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-03 07:16:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-05 10:01:05 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-05 12:17:37 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-05 12:21:43 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-05 14:20:43 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-05 14:48:26 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-05 16:07:25 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-06 12:44:12 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-07 14:55:06 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-07 15:13:00 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-07 15:13:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:15:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:15:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-07 15:17:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:20:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:22:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:22:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:22:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:22:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:22:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:24:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:24:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:26:37 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-07 15:51:31 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-07 15:53:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:53:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:53:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:53:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:53:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:54:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:55:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:56:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 15:56:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-07 16:00:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-08 11:54:17 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-08 11:55:16 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-08 11:57:08 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-08 11:57:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-08 15:20:42 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-08 15:21:08 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-08 15:22:40 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-08 15:24:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-08 16:47:04 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-08 16:48:12 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-08 16:55:25 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-08 17:00:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-08 17:01:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:40:06 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 10:41:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:44:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-11 10:45:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:45:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:46:10 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 10:46:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:50:21 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 10:50:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:57:09 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 10:57:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 10:57:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-11 11:00:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonPrintPdf
+2013-11-11 11:00:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : viewPdf
+2013-11-11 11:36:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-11 11:37:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 11:37:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-11 11:38:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 11:39:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonDelUser
+2013-11-11 12:14:08 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:14:17 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:14:25 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:14:33 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:15:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:16:01 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:16:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:16:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:16:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:16:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:16:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:40:38 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-11 12:41:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:41:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:42:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 12:54:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-11 13:07:32 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-11 13:08:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonPrintPdf
+2013-11-11 13:08:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : viewPdf
+2013-11-12 11:13:39 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-12 11:24:10 Getput: OpUser Connect From : 191.200.30.210 - 
+2013-11-12 12:35:33 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-12 14:54:58 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-12 14:57:05 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-12 14:57:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-12 15:04:20 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-12 15:07:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-12 15:07:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-12 15:49:34 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-13 15:05:54 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-13 15:39:23 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-13 15:41:13 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-13 15:56:58 Getput: Admin Connect From : 191.200.30.210 - 
+2013-11-13 16:08:11 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-14 11:20:23 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-14 11:21:55 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-14 11:24:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:25:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:25:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:25:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:26:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:27:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:28:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:30:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:32:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:34:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:36:26 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:37:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-14 11:38:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:38:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:38:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 11:38:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-14 14:33:38 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-15 11:22:54 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-15 11:25:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:26:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:27:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:28:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:30:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:31:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:32:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:35:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:36:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:37:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:37:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:37:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:38:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:38:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:38:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:39:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:39:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:40:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:41:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:41:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:41:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:43:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:43:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:44:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:44:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:45:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:45:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:46:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:46:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:46:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:46:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:47:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:47:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:47:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:48:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:48:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:48:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:48:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:49:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:49:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:50:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:50:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:50:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:50:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:51:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:51:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:54:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:55:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:57:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:58:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 11:58:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 11:59:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:01:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:01:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:02:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:02:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:04:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:04:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:05:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:05:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:06:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:06:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:08:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:08:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:09:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:10:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:11:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:11:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:12:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:13:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:15:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:29:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:29:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:31:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:32:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:34:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:34:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:35:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:35:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:37:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:37:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:38:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:38:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:39:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:39:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:40:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:40:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:41:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:42:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:42:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:43:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:49:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:49:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:49:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-15 12:54:38 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-15 12:56:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-15 12:56:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:04:03 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:11:21 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:21:44 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:21:53 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:24:17 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:26:14 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:27:03 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-18 15:31:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:39:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:39:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:39:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:39:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:41:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:41:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:42:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:42:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:42:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:45:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:45:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:45:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:48:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:48:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:48:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:48:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:49:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:49:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:49:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:49:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:49:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:50:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:50:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:50:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:50:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:50:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:51:26 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:51:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:51:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:51:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:52:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:52:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:52:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:53:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:53:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:53:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:53:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:53:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:54:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:54:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:54:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:54:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:54:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:54:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:56:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:56:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 15:56:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-18 15:57:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-18 16:18:55 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-18 16:20:37 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-22 13:01:31 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-22 13:01:40 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-22 14:01:32 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-22 14:20:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-22 14:20:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-22 14:21:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-11-22 14:22:51 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-22 14:23:00 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-22 14:28:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetListFileView
+2013-11-22 16:04:54 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-22 16:05:04 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-22 18:23:10 Getput: Admin Connect From : 191.200.30.92 - 
+2013-11-25 10:50:01 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-11-25 13:05:03 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-11-25 14:52:40 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-25 14:53:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-26 18:54:26 Getput: Admin Connect From : 191.200.30.142 - 
+2013-11-27 12:08:02 Getput: Admin Connect From : 191.200.30.222 - 
+2013-11-27 12:09:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:09:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:10:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:10:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:11:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:11:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:11:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:12:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:12:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:13:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:13:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:14:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:14:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:15:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:15:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:16:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:16:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:16:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:16:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:16:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-11-27 12:17:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-12-02 12:26:46 Getput: Admin Connect From : 191.200.30.210 - 
+2013-12-02 18:16:12 Getput: Admin Connect From : 191.200.30.142 - 
+2013-12-02 18:16:20 Getput: Admin Connect From : 191.200.30.142 - 
+2013-12-03 14:06:15 Getput: Admin Connect From : 191.200.30.210 - 
+2013-12-04 14:26:30 Getput: Admin Connect From : 191.200.30.92 - 
+2013-12-04 14:27:43 Getput: Admin Connect From : 191.200.30.92 - 
+2013-12-04 14:34:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:36:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:37:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:38:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:39:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:41:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-04 14:42:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2013-12-05 15:20:47 Getput: Admin Connect From : 191.200.30.92 - 
+2013-12-06 16:23:57 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-06 16:27:41 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-10 14:27:15 Getput: Admin Connect From : 191.200.30.92 - 
+2013-12-10 14:48:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-12-10 14:52:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-12-10 15:16:40 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-12-12 15:15:43 Getput: Admin Connect From : 191.200.30.92 - 
+2013-12-13 16:14:24 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-13 16:15:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-12-13 16:18:01 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-13 16:19:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2013-12-15 10:45:04 Getput: Admin Connect From : 191.200.30.210 - 
+2013-12-16 12:56:43 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-16 14:16:03 Getput: Admin Connect From : 191.200.30.222 - 
+2013-12-23 13:23:49 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-12-23 13:33:29 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-12-23 18:23:18 Getput: OpUser Connect From : 85.18.214.164 - 
+2013-12-30 09:17:09 Getput: Admin Connect From : 191.200.30.210 - 
+2013-12-30 12:05:32 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-01 12:13:57 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-01 12:20:34 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-01 12:20:39 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-02 13:19:22 Getput: Admin Connect From : 191.200.30.222 - 
+2014-01-02 13:20:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-04 17:12:06 Getput: Admin Connect From : 191.200.30.222 - 
+2014-01-04 17:17:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-07 11:33:27 Getput: Admin Connect From : 191.200.30.222 - 
+2014-01-08 13:47:14 Getput: OpUser Connect From : 85.18.214.164 - 
+2014-01-08 13:48:30 Getput: OpUser Connect From : 85.18.214.164 - 
+2014-01-08 14:51:19 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-08 14:55:35 Getput: Admin Connect From : 191.200.30.210 - 
+2014-01-08 16:50:32 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-08 16:53:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-08 16:55:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 10:58:27 Getput: Admin Connect From : 191.200.30.222 - 
+2014-01-10 11:08:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-10 11:19:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:22:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:23:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-10 11:32:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:44:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:47:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:50:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-10 11:51:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-21 15:29:56 Getput: Admin Connect From : 191.200.30.222 - 
+2014-01-21 15:34:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-21 15:36:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-21 15:37:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-21 15:39:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-23 13:30:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-23 13:30:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-23 13:30:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-25 17:00:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetListFileView
+2014-01-25 17:01:47 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-27 15:33:44 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-27 15:34:32 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-31 11:06:35 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-31 11:07:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:08:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-31 11:11:09 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-31 11:11:46 Getput: Admin Connect From : 191.200.30.92 - 
+2014-01-31 11:12:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:12:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-31 11:12:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-01-31 11:14:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:14:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:14:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:14:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-01-31 11:14:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-01 10:09:18 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-07 18:32:10 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-07 18:32:24 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-07 18:48:18 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-07 20:10:27 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-11 15:29:32 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-11 15:29:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetListFileView
+2014-02-11 15:42:44 Getput: Admin Connect From : 191.200.30.210 - 
+2014-02-11 15:43:02 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-11 19:23:43 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-11 19:27:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 19:28:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-11 19:28:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-11 19:29:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-11 19:29:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 19:31:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 19:33:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 19:44:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 20:03:00 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-11 20:03:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-11 20:04:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-11 20:22:04 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-11 20:22:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-12 11:46:19 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 11:49:52 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:00:21 Getput: Admin Connect From : 191.200.30.210 - 
+2014-02-12 12:12:07 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:15:47 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:18:13 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:19:59 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:21:32 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:33:20 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:33:26 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:36:13 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:43:44 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:47:50 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 12:49:57 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-12 14:23:51 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-14 12:20:56 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-14 12:21:42 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-14 12:21:54 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-14 12:22:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-14 12:53:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-17 12:04:48 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-17 12:05:42 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-17 12:11:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-19 00:51:53 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-19 00:52:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-20 14:23:22 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-20 14:25:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:28:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:29:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:30:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:32:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:32:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:33:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:38:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:43:26 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:45:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:45:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:47:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:48:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:50:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:51:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:54:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:55:26 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:56:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:57:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 14:57:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-20 15:00:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 15:00:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 15:01:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-20 18:19:26 Getput: Admin Connect From : 191.200.30.92 - 
+2014-02-20 18:19:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-02-25 17:16:28 Getput: Admin Connect From : 191.200.30.222 - 
+2014-02-25 17:20:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-25 17:22:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-02-25 17:23:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-01 18:06:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetListFileView
+2014-03-03 19:00:23 Getput: Admin Connect From : 191.200.30.92 - 
+2014-03-03 19:02:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-03 19:11:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-03 19:12:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-03 19:14:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-04 18:28:37 Getput: Admin Connect From : 191.200.30.222 - 
+2014-03-04 18:32:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-04 18:32:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-05 15:48:01 Getput: Admin Connect From : 191.200.30.92 - 
+2014-03-05 19:39:23 Getput: Admin Connect From : 191.200.30.92 - 
+2014-03-05 19:39:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-05 19:40:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-07 12:39:49 Getput: Admin Connect From : 191.200.30.222 - 
+2014-03-17 12:35:03 Getput: Admin Connect From : 191.200.30.92 - 
+2014-03-17 13:59:38 Getput: Admin Connect From : 191.200.30.92 - 
+2014-03-17 14:04:51 Getput: Admin Connect From : 191.200.30.210 - 
+2014-03-17 14:23:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:23:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:23:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:25:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:25:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:25:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:25:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:25:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:26:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:27:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:27:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:29:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:33:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-17 14:33:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-18 15:38:28 Getput: Admin Connect From : 191.200.30.222 - 
+2014-03-18 15:38:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-03-18 15:39:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-03-21 20:04:10 Getput: Admin Connect From : 191.200.30.222 - 
+2014-03-22 18:49:18 Getput: Admin Connect From : 191.200.30.222 - 
+2014-03-31 19:30:36 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-07 11:14:32 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-07 11:57:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-07 11:57:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-07 11:57:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-07 12:11:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-07 12:13:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-07 12:28:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-07 12:29:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-07 12:31:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-07 12:32:44 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-11 17:13:58 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-11 17:14:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-12 16:57:25 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-12 17:21:56 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-22 10:38:46 Getput: Admin Connect From : 191.200.30.92 - 
+2014-04-28 12:54:04 Getput: Admin Connect From : 191.200.30.92 - 
+2014-04-28 12:54:49 Getput: Admin Connect From : 191.200.30.92 - 
+2014-04-28 12:56:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:00:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:02:48 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:08:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:11:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:12:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:13:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:15:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:17:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:18:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:19:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:20:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:28:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:29:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:31:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:32:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:33:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:36:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:37:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:38:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:40:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:42:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:43:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:44:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:45:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:46:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:47:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:48:26 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 13:49:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 14:02:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-04-28 14:02:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-28 14:04:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-04-28 14:06:33 Getput: Admin Connect From : 191.200.30.92 - 
+2014-04-28 18:52:33 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-28 19:02:39 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-28 19:08:57 Getput: Admin Connect From : 191.200.30.222 - 
+2014-04-28 19:32:25 Getput: Admin Connect From : 191.200.30.142 - 
+2014-04-28 19:32:49 Getput: Admin Connect From : 191.200.30.142 - 
+2014-05-29 12:04:48 Getput: Admin Connect From : 191.200.30.92 - 
+2014-05-30 21:02:45 Getput: Admin Connect From : 191.200.30.92 - 
+2014-05-30 21:04:05 Getput: Admin Connect From : 191.200.30.92 - 
+2014-05-30 21:04:47 Getput: Admin Connect From : 191.200.30.92 - 
+2014-05-30 21:05:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:19:41 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-02 21:24:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:19 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:24:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:29:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:29:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:29:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-02 21:29:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 15:51:42 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-06 15:53:22 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-06 15:54:02 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-06 15:57:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-06 20:44:51 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-06 20:45:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:45:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-06 20:47:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:47:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:47:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-06 20:47:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:47:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-06 20:48:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:48:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:48:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:48:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:49:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:52:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:52:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:52:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:52:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:52:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:53:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:54:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 20:58:23 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-06 20:58:55 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-06 21:02:09 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-06 21:02:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-06 21:02:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-08 20:27:22 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-08 20:27:36 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-10 12:02:01 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-11 15:45:17 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-11 15:48:45 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-12 19:16:19 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 19:16:28 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 19:21:36 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 19:22:17 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 19:22:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:23:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:28:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:29:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:29:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:29:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:29:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:29:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:30:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:30:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:30:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:31:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:31:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:33:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:33:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:33:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:34:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:37:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-12 19:38:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-12 19:58:27 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 19:59:47 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-12 21:10:02 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-13 13:02:52 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-13 13:04:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-13 13:06:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-06-13 16:55:43 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-14 20:37:20 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-14 20:38:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-16 16:05:00 Getput: Admin Connect From : 191.200.30.142 - 
+2014-06-18 12:47:02 Getput: Admin Connect From : 191.200.30.92 - 
+2014-06-18 12:47:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-20 14:37:48 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-20 14:38:32 Getput: Admin Connect From : 191.200.30.222 - 
+2014-06-20 14:38:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-06-20 14:48:51 Getput: AppController:checkPermission - Access denied
+2014-06-20 14:48:59 Getput: AppController:checkPermission - Access denied
+2014-06-20 14:49:01 Getput: AppController:checkPermission - Access denied
+2014-06-20 14:49:02 Getput: AppController:checkPermission - Access denied
+2014-06-20 14:49:05 Getput: AppController:checkPermission - Access denied
+2014-06-20 14:49:44 Getput: Admin Connect From : 191.200.30.222 - 
+2014-07-01 16:09:29 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-01 16:10:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-01 16:10:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-01 16:10:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-01 16:11:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-01 16:11:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:30:21 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-07 17:31:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:58:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-07 17:58:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:58:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:58:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:58:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:59:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:59:05 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:59:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 17:59:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:03:24 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-07 18:05:46 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-07 18:05:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:05:57 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-07 18:06:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:06:03 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:06:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:06:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:24:19 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-07 18:24:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:25:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-07 18:25:22 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-09 10:56:10 Getput: Admin Connect From : 191.200.30.222 - 
+2014-07-09 10:56:50 Getput: Admin Connect From : 191.200.30.222 - 
+2014-07-09 10:57:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-11 11:55:22 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-11 11:55:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-11 11:55:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-11 11:55:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-11 11:55:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-11 12:19:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-17 13:30:48 Getput: Admin Connect From : 191.200.30.222 - 
+2014-07-17 13:31:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-23 17:49:25 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-28 12:40:41 Getput: Admin Connect From : 191.200.30.92 - 
+2014-07-28 12:49:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-28 12:52:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-07-28 12:52:53 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-31 19:00:23 Getput: Admin Connect From : 191.200.30.142 - 
+2014-07-31 19:01:28 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-31 19:01:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-31 19:01:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-31 19:01:37 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-07-31 19:01:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 15:09:18 Getput: Admin Connect From : 191.200.30.142 - 
+2014-09-01 16:18:28 Getput: Admin Connect From : 191.200.30.222 - 
+2014-09-01 16:19:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:19:25 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:19:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:19:49 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:20:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:30:31 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:30:45 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:41:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:42:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:43:36 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:44:54 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:44:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:45:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:46:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:46:56 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:48:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 16:48:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 16:48:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:00:27 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:00:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:01:15 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:02:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:02:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:02:33 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:02:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:03:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:03:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:05:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:07:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:07:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:07:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:08:07 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:08:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:09:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:10:16 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:10:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:10:42 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:11:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:12:35 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:12:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:13:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:13:29 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:17:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:17:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:19:06 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:20:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:20:39 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:21:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:21:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:22:04 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:22:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:23:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:23:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:23:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:23:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:24:00 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:24:12 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:24:17 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:24:30 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:24:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:24:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:24:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:24:59 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:25:14 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:25:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:25:34 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:25:38 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:26:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:26:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:26:41 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:26:52 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:27:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:27:58 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:28:32 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:28:50 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:29:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:29:40 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:30:02 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:30:18 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:30:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:31:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:31:23 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:31:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:32:08 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-01 17:32:43 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:33:13 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:35:55 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-01 17:43:37 Getput: Admin Connect From : 191.200.30.142 - 
+2014-09-09 13:41:09 Getput: Admin Connect From : 191.200.30.92 - 
+2014-09-09 13:45:20 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-09 13:47:01 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-09 13:48:21 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-09 13:49:47 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-09 13:51:10 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-10 12:51:06 Getput: Admin Connect From : 191.200.30.222 - 
+2014-09-10 12:52:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
+2014-09-10 12:53:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2014-09-10 12:57:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
