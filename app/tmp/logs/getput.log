@@ -888,3 +888,4 @@
 2014-09-10 12:52:09 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonGetUser
 2014-09-10 12:53:11 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
 2014-09-10 12:57:51 Getput: AppController:checkPermission - Unable query CtrlActPermit record : jsonSaveUserIfValid
+2016-02-11 19:07:10 Getput: Admin Connect From : 127.0.0.1 - 

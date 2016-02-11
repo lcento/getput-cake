@@ -1,0 +1,2 @@
+1455214045
+a:4:{s:15:"users_addon_num";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:7:"primary";}s:14:"users_addon_id";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:11;s:3:"key";s:5:"index";}s:17:"users_addon_level";a:5:{s:4:"type";s:7:"integer";s:4:"null";b:0;s:7:"default";N;s:6:"length";i:1;s:3:"key";s:5:"index";}s:18:"users_addon_status";a:4:{s:4:"type";s:7:"boolean";s:4:"null";b:1;s:7:"default";s:1:"0";s:6:"length";i:1;}}
