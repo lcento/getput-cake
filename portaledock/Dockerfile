@@ -38,6 +38,9 @@ RUN rm -r /tmp/getput-cake/
 # Add getput configuration files
 ADD ./files/database.php /var/local/share/getput-cake/app/config/
 
+# Set chmod permit for app TEMP
+RUN chmod -R 777 /var/local/share/getput-cake/app/tmp
+
 # Add Apache Configuration files 
 RUN mkdir /etc/apache2/ssl/
 RUN mkdir /var/run/apache2/
