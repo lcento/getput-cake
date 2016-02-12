@@ -45,6 +45,8 @@ RUN chmod -R 777 /var/local/share/getput-cake/app/tmp
 RUN mkdir /etc/apache2/ssl/
 RUN mkdir /var/run/apache2/
 
+# Add Config
+
 ADD ./files/default-ssl /etc/apache2/sites-available/
 ADD ./files/ports.conf /etc/apache2/
 ADD ./files/ftp.ilmattino.it.cert /etc/apache2/ssl/
